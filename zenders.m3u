@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="rtvzulthe" group-title="Lokaal",RTV Zulthe
+https://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rtvnoord" group-title="Lokaal",RTV Noord
+https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8

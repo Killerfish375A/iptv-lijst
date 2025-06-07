@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="rtvzulthe" group-title="Lokaal",RTV Zulthe
-https://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rtvnoord" group-title="Lokaal",RTV Noord
+#EXTINF:-1 tvg-id="rtvnoord" tvg-name="RTV Noord" group-title="Lokaal" channel-number="1",RTV Noord
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 tvg-id="rtvzulthe" tvg-name="RTV Zulthe" group-title="Lokaal" channel-number="2",RTV Zulthe
+https://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
+

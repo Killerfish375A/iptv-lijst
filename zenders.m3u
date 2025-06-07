@@ -3,4 +3,6 @@
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 #EXTINF:-1 tvg-id="rtvzulthe" tvg-name="RTV Zulthe" group-title="Lokaal" channel-number="2",RTV Zulthe
 https://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rtvdrenthe" tvg-name="RTV Drenthe" group-title="Lokaal" channel-number="3",RTV Drenthe
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 

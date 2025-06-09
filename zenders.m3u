@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.pw/xmltv/epg.xml"
 #EXTINF:-1 tvg-id="RTVNoord(src01).nl" tvg-name="RTV Noord" group-title="Lokaal" tvg-chno="1",RTV Noord
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 #EXTINF:-1 tvg-id="RTVDrenthe(src01).nl" tvg-name="RTV Drenthe" group-title="Lokaal" tvg-chno="2",RTV Drenthe

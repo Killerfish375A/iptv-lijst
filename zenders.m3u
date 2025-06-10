@@ -1,7 +1,9 @@
-#EXTM3U url-tvg="http://epg.pw/xmltv/epg.xml"
-#EXTINF:-1 tvg-chno="1" tvg-id="RTVNoord(src01).nl" tvg-name="RTV Noord" tvg-logo="" group-title="Lokaal" tvg-shift="+2",RTV Noord
+#EXTM3U
+#EXTINF:-1 tvg-id="TVNoord.nl" tvg-name="RTV Noord" group-title="Lokaal" channel-number="1",RTV Noord
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="RTVDrenthe(src01).nl" tvg-name="RTV Drenthe" tvg-logo="" group-title="Lokaal" tvg-shift="+2",RTV Drenthe
+
+#EXTINF:-1 tvg-id="TVDrenthe.nl" tvg-name="RTV Drenthe" group-title="Lokaal" channel-number="2",RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="rtvzulthe" tvg-name="RTV Zulthe" tvg-logo="" group-title="Lokaal",RTV Zulthe
+
+#EXTINF:-1 tvg-id="ZultheTV.nl" tvg-name="RTV Zulthe" group-title="Lokaal" channel-number="3",RTV Zulthe
 https://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8

@@ -1,9 +1,31 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="TVNoord.nl" tvg-name="RTV Noord" group-title="Lokaal" channel-number="1",RTV Noord
-https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
-
-#EXTINF:-1 tvg-id="TVDrenthe.nl" tvg-name="RTV Drenthe" group-title="Lokaal" channel-number="2",RTV Drenthe
-https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-
-#EXTINF:-1 tvg-id="ZultheTV.nl" tvg-name="RTV Zulthe" group-title="Lokaal" channel-number="3",RTV Zulthe
+#EXTM3U url-tvg="http://m3u4u.com/epg/p192y71qgqhv54mpymeg"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Zulthe" tvg-logo="" group-title="Lokaal" tvg-shift="+2",RTV Zulthe
 https://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="L1(src01).nl" tvg-name="L1 Ⓢ" tvg-logo="https://camo.githubusercontent.com/044de1ddcb2176f82084429825a870c9266583461f09b4edf72298555883c7b3/68747470733a2f2f692e696d6775722e636f6d2f4a79686e3169502e706e67" group-title="Regionaal" tvg-shift="+2",L1 Ⓢ
+http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="RTVNoordHolland(src01).nl" tvg-name="NH Nieuws" tvg-logo="https://camo.githubusercontent.com/9122dcde770ecd319affb9263ff0fbfbed6540df99f9023478e236d49c2a72ba/68747470733a2f2f692e696d6775722e636f6d2f535150564f776e2e706e67" group-title="Regionaal" tvg-shift="+2",NH Nieuws
+https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="OmroepBrabant(src01).nl" tvg-name="Omroep Brabant" tvg-logo="https://camo.githubusercontent.com/6ccea51cc875b7b7612e322f3685d99c5e9dc158b0126535c7599d7429174c62/68747470733a2f2f692e696d6775722e636f6d2f4a7637496a484a2e706e67" group-title="Regionaal" tvg-shift="+2",Omroep Brabant
+http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="OmroepFlevoland(src01).nl" tvg-name="Omroep Flevoland Ⓢ" tvg-logo="https://camo.githubusercontent.com/8d10cf737f5ee43d7173ad6bcbd36cb2f6fab2f305b4614a0531d9152f99b750/68747470733a2f2f692e696d6775722e636f6d2f6431436d5463492e706e67" group-title="Regionaal" tvg-shift="+2",Omroep Flevoland Ⓢ
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="OmroepGelderland(src01).nl" tvg-name="Omroep Gelderland" tvg-logo="https://camo.githubusercontent.com/9321808097476f27e54aa4b88c202e8b9dd09c82c382a74c2fb5ae57a9823185/68747470733a2f2f692e696d6775722e636f6d2f54506c797655512e706e67" group-title="Regionaal" tvg-shift="+2",Omroep Gelderland
+https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="TV(West)(src01).nl" tvg-name="Omroep West" tvg-logo="https://camo.githubusercontent.com/f239c04fc7c02a72479c2f84b5219541956c16e2d25ea4ce8008eef56d0e5b91/68747470733a2f2f692e696d6775722e636f6d2f616178314850482e706e67" group-title="Regionaal" tvg-shift="+2",Omroep West
+https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="OmroepZeeland(src01).nl" tvg-name="Omroep Zeeland" tvg-logo="https://camo.githubusercontent.com/71fe6de841fe7534bacf49c1fce1b173945c14676112cc2d4ebf87d4b1d2329e/68747470733a2f2f692e696d6775722e636f6d2f38614c447955492e706e67" group-title="Regionaal" tvg-shift="+2",Omroep Zeeland
+http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="TVRijnmond(src01).nl" tvg-name="RTV Rijnmond" tvg-logo="https://camo.githubusercontent.com/b4a6dd54c88245f12f09320625b39c52ae07180796110fd3bebf8db61a49e303/68747470733a2f2f692e696d6775722e636f6d2f544e685556456d2e706e67" group-title="Regionaal" tvg-shift="+2",RTV Rijnmond
+https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="RegioTVUtrecht(src01).nl" tvg-name="RTV Utrecht" tvg-logo="https://camo.githubusercontent.com/e12597b5e6accaaaf86e5ab8e55a9ae9bf59541ffed51b67bb5a786631c8eda3/68747470733a2f2f692e696d6775722e636f6d2f63304932344e362e706e67" group-title="Regionaal" tvg-shift="+2",RTV Utrecht
+http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="rtvzulthe" tvg-name="RTV Zulthe" tvg-logo="https://streektoalradio.nl/wp-content/uploads/2022/08/Logo-RTV-Zulthe-liggend-zonder-pay-off-1-1-1-1024x250.png" group-title="Regionaal" tvg-shift="+2",RTV Zulthe
+https://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="RTVNoord(src01).nl" tvg-name="RTV Noord" tvg-logo="https://camo.githubusercontent.com/62721100c9fc1528d58ecb1aac26fd303218a1140139412725dbd3852f31b962/68747470733a2f2f692e696d6775722e636f6d2f704f354d6578612e706e67" group-title="Regionaal" tvg-shift="+2",RTV Noord
+https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="RTVDrenthe(src01).nl" tvg-name="RTV Drenthe" tvg-logo="https://camo.githubusercontent.com/d7e00ecb0a511fa9f6fc4a25f2d5e726e82c19b80e1e51ad2b2d6ac6509e5f39/68747470733a2f2f692e696d6775722e636f6d2f476147714d347a2e706e67" group-title="Regionaal" tvg-shift="+2",RTV Drenthe
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="OmropFryslan(src01).nl" tvg-name="Omrop Fryslân" tvg-logo="https://camo.githubusercontent.com/8695f13d97ccc13a5f628d9de3242a504556b95aad69218369b799c2d15ced44/68747470733a2f2f692e696d6775722e636f6d2f30564b4a4c414b2e706e67" group-title="Regionaal" tvg-shift="+2",Omrop Fryslân
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="TVOost(src01).nl" tvg-name="RTV Oost" tvg-logo="https://camo.githubusercontent.com/3b8705f473f8a9f32e98813af8335b3dee23c5b093bd5f6124bec6c42a2133d7/68747470733a2f2f692e696d6775722e636f6d2f38726f705632392e706e67" group-title="Regionaal" tvg-shift="+2",RTV Oost
+https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8

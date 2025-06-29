@@ -29,3 +29,5 @@ https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="TVOost(src01).nl" tvg-name="RTV Oost" tvg-logo="https://camo.githubusercontent.com/3b8705f473f8a9f32e98813af8335b3dee23c5b093bd5f6124bec6c42a2133d7/68747470733a2f2f692e696d6775722e636f6d2f38726f705632392e706e67" group-title="Regionaal" tvg-shift="+2",RTV Oost
 https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+#EXTINF:-1 tvg-chno="15" #EXTINF:-1 tvg-id="VTM.be",VTM (720p) tvg-name="VTM" tvg-logo="https://camo.githubusercontent.com/fcb7853f1e0f8e8cc42487bf4c36545b4a685211b14012ab89ddb1c5f465596a/68747470733a2f2f692e696d6775722e636f6d2f665578525039782e706e67 group-title="Regionaal" tvg-shift="+2",VTM
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8

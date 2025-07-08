@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/p192y71qgqhv54mpymeg"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Zulthe" tvg-logo="" group-title="Lokaal" tvg-shift="+2",RTV Zulthe
 https://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="L1(src01).nl" tvg-name="L1 Ⓢ" tvg-logo="https://camo.githubusercontent.com/044de1ddcb2176f82084429825a870c9266583461f09b4edf72298555883c7b3/68747470733a2f2f692e696d6775722e636f6d2f4a79686e3169502e706e67" group-title="Regionaal" tvg-shift="+2",L1 Ⓢ
@@ -21,7 +21,7 @@ https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
 http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="rtvzulthe" tvg-name="RTV Zulthe" tvg-logo="https://streektoalradio.nl/wp-content/uploads/2022/08/Logo-RTV-Zulthe-liggend-zonder-pay-off-1-1-1-1024x250.png" group-title="Regionaal" tvg-shift="+2",RTV Zulthe
 https://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="RTVNoord(src01).nl" tvg-name="RTV Noord" tvg-logo="https://camo.githubusercontent.com/62721100c9fc1528d58ecb1aac26fd303218a1140139412725dbd3852f31b962/68747470733a2f2f692e696d6775722e636f6d2f704f354d6578612e706e67" group-title="Regionaal" tvg-shift="+2",RTV Noord
+#EXTINF:-1 tvg-chno="2" tvg-id="RTVNoord.nl" tvg-name="RTV Noord" tvg-logo="https://camo.githubusercontent.com/62721100c9fc1528d58ecb1aac26fd303218a1140139412725dbd3852f31b962/68747470733a2f2f692e696d6775722e636f6d2f704f354d6578612e706e67" group-title="Regionaal" tvg-shift="+2",RTV Noord
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="RTVDrenthe(src01).nl" tvg-name="RTV Drenthe" tvg-logo="https://camo.githubusercontent.com/d7e00ecb0a511fa9f6fc4a25f2d5e726e82c19b80e1e51ad2b2d6ac6509e5f39/68747470733a2f2f692e696d6775722e636f6d2f476147714d347a2e706e67" group-title="Regionaal" tvg-shift="+2",RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8

@@ -38,6 +38,8 @@ https://sbs6classics.prd1.talpatvcdn.nl/kijk/Tcv51XUtMmi/v1/master/8ada1ed2ae3b9
 #EXTINF:-1 tvg-chno="18" #EXTINF:-1 tvg-id="BVN",BVN tvg-name="BVN" tvg-logo="" group-title="Regionaal" tvg-shift="+2",BVN
 http://trn03.bozztv.com/gin-bvntv/index.m3u8
 
+
+#EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTINF:-1,group-title="Film",liebe ist die beste medizin
 https://hrardmediathek-vh.akamaihd.net/i/odinson/spezial/SVID-611C453A-2AA4-4F20-B2FF-664BDBC067B6/c43b28b6-ade6-4b65-b289-c39689420f82/0232842_sendeton_,480x270-50p-700,1920x1080-50p-5000,1280x720-50p-3200,960x540-50p-1600,640x360-50p-1200,kbit.mp4/master.m3u8
